@@ -5,7 +5,7 @@ It demonstrates **end-to-end PySpark workflow** — from data ingestion and tran
 
 ---
 
-## 📘 Contents
+## Contents
 
 1. Data Transformation Using PySpark RDD
 2. collect(), sample(), and takeSample() Operations
@@ -19,7 +19,7 @@ Each notebook progressively builds analytical capability, leading to the final m
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ Then open any `.ipynb` file and **Run All Cells** sequentially.
 
 ---
 
-## 🎓 Education Dataset Mini Project
+## Education Dataset Mini Project
 
 **Location:**
 `Education Dataset Analytics(Mini Project)/`
@@ -58,7 +58,7 @@ Then open any `.ipynb` file and **Run All Cells** sequentially.
 
 ---
 
-## 📊 Example Questions Explored
+## Example Questions Explored
 
 * Which districts have the highest and lowest number of schools?
 * How are boys and girls distributed across school levels (Primary → Sr. Secondary)?
@@ -70,7 +70,7 @@ The notebook demonstrates **data ingestion, transformation, aggregation, and vis
 
 ---
 
-## 🧮 Lab Highlights
+## Lab Highlights
 
 * Data Cleaning and Schema Inference in PySpark
 * Grouping and Aggregation (`groupBy`, `agg`, `count`, `avg`)
@@ -81,7 +81,7 @@ The notebook demonstrates **data ingestion, transformation, aggregation, and vis
 
 ---
 
-## 📈 Key Results Summary
+## Key Results Summary
 
 * **Total Districts Analyzed:** 33
 * **Total Schools (All Levels):** ~660,000
@@ -94,7 +94,7 @@ The notebook demonstrates **data ingestion, transformation, aggregation, and vis
 
 ---
 
-## 🔁 Repository Workflow
+## Repository Workflow
 
 ```mermaid
 graph TD
@@ -110,7 +110,7 @@ graph TD
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 This project showcases how **PySpark** can efficiently process and analyze large-scale education data for district-level insights.
 
